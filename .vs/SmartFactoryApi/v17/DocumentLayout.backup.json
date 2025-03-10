@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29E916D5-1C80-49BB-A7B1-51FCE975EC16}|SmartFactoryApi\\SmartFactoryApi.csproj|d:\\\u684C\u9762\\zhaoxi\\smartfactoryapi\\smartfactoryapi\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E916D5-1C80-49BB-A7B1-51FCE975EC16}|SmartFactoryApi\\SmartFactoryApi.csproj|solutionrelative:smartfactoryapi\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBD756-C1D0-4579-8139-F781154A8E31}|Zhaoxi.SmartFactory.Common\\Zhaoxi.SmartFactory.Common.csproj|d:\\\u684C\u9762\\zhaoxi\\smartfactoryapi\\zhaoxi.smartfactory.common\\result\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBD756-C1D0-4579-8139-F781154A8E31}|Zhaoxi.SmartFactory.Common\\Zhaoxi.SmartFactory.Common.csproj|solutionrelative:zhaoxi.smartfactory.common\\result\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\SmartFactoryApi\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "SmartFactoryApi\\Controllers\\StatisticsController.cs",
+              "ToolTip": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\SmartFactoryApi\\Controllers\\StatisticsController.cs*",
+              "RelativeToolTip": "SmartFactoryApi\\Controllers\\StatisticsController.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA9wB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:24:05.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiResult.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\Zhaoxi.SmartFactory.Common\\Result\\ApiResult.cs",
+              "RelativeDocumentMoniker": "Zhaoxi.SmartFactory.Common\\Result\\ApiResult.cs",
+              "ToolTip": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\Zhaoxi.SmartFactory.Common\\Result\\ApiResult.cs",
+              "RelativeToolTip": "Zhaoxi.SmartFactory.Common\\Result\\ApiResult.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:22:33.817Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
