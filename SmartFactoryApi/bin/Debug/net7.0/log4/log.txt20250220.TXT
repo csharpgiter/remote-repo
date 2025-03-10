@@ -1,0 +1,88 @@
+2025-02-20 11:34:08,233 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-02-20 11:34:08,288 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-02-20 11:34:08,348 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-02-20 11:34:08,352 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-02-20 11:34:08,355 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-02-20 11:34:29,092 [16] INFO  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:34:29,113 [16] WARN  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:34:29,117 [16] ERROR SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:34:31,035 [15] INFO  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:34:31,039 [15] WARN  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:34:31,044 [15] ERROR SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:42:29,416 [20] INFO  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:42:29,423 [20] WARN  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:42:29,425 [20] ERROR SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:42:29,865 [21] INFO  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:42:29,869 [21] WARN  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:42:29,872 [21] ERROR SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:42:30,214 [18] INFO  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:42:30,217 [18] WARN  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:42:30,221 [18] ERROR SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:46:45,339 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-02-20 11:46:45,382 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-02-20 11:46:45,440 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-02-20 11:46:45,445 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-02-20 11:46:45,448 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-02-20 11:46:49,335 [10] INFO  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:46:49,346 [10] WARN  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:46:49,350 [10] ERROR SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:48:33,185 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-02-20 11:48:33,241 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-02-20 11:48:33,292 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-02-20 11:48:33,295 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-02-20 11:48:33,298 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-02-20 11:48:42,140 [10] INFO  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:48:42,152 [10] WARN  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:48:42,155 [10] ERROR SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:50:38,668 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-02-20 11:50:38,713 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-02-20 11:50:38,795 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-02-20 11:50:38,801 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-02-20 11:50:38,804 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-02-20 11:50:42,845 [18] INFO  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:50:42,856 [18] WARN  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:50:42,860 [18] ERROR SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:51:36,254 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-02-20 11:51:36,301 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-02-20 11:51:36,356 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-02-20 11:51:36,360 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-02-20 11:51:36,362 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-02-20 11:51:40,057 [5] INFO  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:51:40,067 [5] WARN  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 11:51:40,070 [5] ERROR SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 12:02:53,516 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-02-20 12:02:53,523 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-02-20 12:02:53,567 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-02-20 12:02:53,569 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-02-20 12:02:53,570 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-02-20 12:02:58,092 [16] INFO  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 12:02:58,099 [16] WARN  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 12:02:58,102 [16] ERROR SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 12:08:41,583 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-02-20 12:08:41,628 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-02-20 12:08:41,676 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-02-20 12:08:41,679 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-02-20 12:08:41,680 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-02-20 12:08:45,559 [17] INFO  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 12:08:45,569 [17] WARN  SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 12:08:45,572 [17] ERROR SmartFactoryApi.Controllers.WeatherForecastController - SmartFactoryApi.Controllers.WeatherForecastController被构造
+2025-02-20 15:09:42,618 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-02-20 15:09:42,676 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-02-20 15:09:42,733 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-02-20 15:09:42,738 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-02-20 15:09:42,741 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-02-20 15:10:46,279 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-02-20 15:10:46,332 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-02-20 15:10:46,399 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-02-20 15:10:46,403 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-02-20 15:10:46,405 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-02-20 17:55:30,035 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-02-20 17:55:30,093 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-02-20 17:55:30,153 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-02-20 17:55:30,156 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-02-20 17:55:30,158 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-02-20 18:01:43,214 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-02-20 18:01:43,280 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-02-20 18:01:43,338 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-02-20 18:01:43,343 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-02-20 18:01:43,345 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi

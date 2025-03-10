@@ -1,0 +1,17 @@
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessInterface\bin\Debug\net7.0\SmartFactory.BusinessInterface.deps.json
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessInterface\bin\Debug\net7.0\SmartFactory.BusinessInterface.dll
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessInterface\bin\Debug\net7.0\SmartFactory.BusinessInterface.pdb
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessInterface\bin\Debug\net7.0\Zhaoxi.SmartFactory.Common.dll
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessInterface\bin\Debug\net7.0\Zhaoxi.SmartFactory.Common.pdb
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessInterface\obj\Debug\net7.0\SmartFactory.BusinessInterface.csproj.AssemblyReference.cache
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessInterface\obj\Debug\net7.0\SmartFactory.BusinessInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessInterface\obj\Debug\net7.0\SmartFactory.BusinessInterface.AssemblyInfoInputs.cache
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessInterface\obj\Debug\net7.0\SmartFactory.BusinessInterface.AssemblyInfo.cs
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessInterface\obj\Debug\net7.0\SmartFactory.BusinessInterface.csproj.CoreCompileInputs.cache
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessInterface\obj\Debug\net7.0\SmartFac.BA232615.Up2Date
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessInterface\obj\Debug\net7.0\SmartFactory.BusinessInterface.dll
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessInterface\obj\Debug\net7.0\refint\SmartFactory.BusinessInterface.dll
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessInterface\obj\Debug\net7.0\SmartFactory.BusinessInterface.pdb
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessInterface\obj\Debug\net7.0\ref\SmartFactory.BusinessInterface.dll
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessInterface\bin\Debug\net7.0\SmartFactory.Entity.dll
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessInterface\bin\Debug\net7.0\SmartFactory.Entity.pdb

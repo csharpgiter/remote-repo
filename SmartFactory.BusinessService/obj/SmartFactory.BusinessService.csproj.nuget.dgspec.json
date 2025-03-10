@@ -1,0 +1,327 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.BusinessService\\SmartFactory.BusinessService.csproj": {}
+  },
+  "projects": {
+    "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.BusinessInterface\\SmartFactory.BusinessInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.BusinessInterface\\SmartFactory.BusinessInterface.csproj",
+        "projectName": "SmartFactory.BusinessInterface",
+        "projectPath": "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.BusinessInterface\\SmartFactory.BusinessInterface.csproj",
+        "packagesPath": "C:\\Users\\HONOR\\.nuget\\packages\\",
+        "outputPath": "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.BusinessInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HONOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.Entity\\SmartFactory.Entity.csproj": {
+                "projectPath": "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.Entity\\SmartFactory.Entity.csproj"
+              },
+              "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\Zhaoxi.SmartFactory.Common\\Zhaoxi.SmartFactory.Common.csproj": {
+                "projectPath": "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\Zhaoxi.SmartFactory.Common\\Zhaoxi.SmartFactory.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.1.4.178, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.BusinessService\\SmartFactory.BusinessService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.BusinessService\\SmartFactory.BusinessService.csproj",
+        "projectName": "SmartFactory.BusinessService",
+        "projectPath": "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.BusinessService\\SmartFactory.BusinessService.csproj",
+        "packagesPath": "C:\\Users\\HONOR\\.nuget\\packages\\",
+        "outputPath": "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.BusinessService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HONOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.BusinessInterface\\SmartFactory.BusinessInterface.csproj": {
+                "projectPath": "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.BusinessInterface\\SmartFactory.BusinessInterface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.1.4.178, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.Entity\\SmartFactory.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.Entity\\SmartFactory.Entity.csproj",
+        "projectName": "SmartFactory.Entity",
+        "projectPath": "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.Entity\\SmartFactory.Entity.csproj",
+        "packagesPath": "C:\\Users\\HONOR\\.nuget\\packages\\",
+        "outputPath": "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HONOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\Zhaoxi.SmartFactory.Common\\Zhaoxi.SmartFactory.Common.csproj": {
+                "projectPath": "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\Zhaoxi.SmartFactory.Common\\Zhaoxi.SmartFactory.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.1.4.178, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\Zhaoxi.SmartFactory.Common\\Zhaoxi.SmartFactory.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\Zhaoxi.SmartFactory.Common\\Zhaoxi.SmartFactory.Common.csproj",
+        "projectName": "Zhaoxi.SmartFactory.Common",
+        "projectPath": "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\Zhaoxi.SmartFactory.Common\\Zhaoxi.SmartFactory.Common.csproj",
+        "packagesPath": "C:\\Users\\HONOR\\.nuget\\packages\\",
+        "outputPath": "D:\\桌面\\Zhaoxi\\SmartFactoryApi\\Zhaoxi.SmartFactory.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HONOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

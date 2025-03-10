@@ -1,0 +1,12 @@
+D:\桌面\Zhaoxi\SmartFactoryApi\Zhaoxi.SmartFactory.Common\bin\Debug\net7.0\Zhaoxi.SmartFactory.Common.deps.json
+D:\桌面\Zhaoxi\SmartFactoryApi\Zhaoxi.SmartFactory.Common\bin\Debug\net7.0\Zhaoxi.SmartFactory.Common.dll
+D:\桌面\Zhaoxi\SmartFactoryApi\Zhaoxi.SmartFactory.Common\bin\Debug\net7.0\Zhaoxi.SmartFactory.Common.pdb
+D:\桌面\Zhaoxi\SmartFactoryApi\Zhaoxi.SmartFactory.Common\obj\Debug\net7.0\Zhaoxi.SmartFactory.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\Zhaoxi\SmartFactoryApi\Zhaoxi.SmartFactory.Common\obj\Debug\net7.0\Zhaoxi.SmartFactory.Common.AssemblyInfoInputs.cache
+D:\桌面\Zhaoxi\SmartFactoryApi\Zhaoxi.SmartFactory.Common\obj\Debug\net7.0\Zhaoxi.SmartFactory.Common.AssemblyInfo.cs
+D:\桌面\Zhaoxi\SmartFactoryApi\Zhaoxi.SmartFactory.Common\obj\Debug\net7.0\Zhaoxi.SmartFactory.Common.csproj.CoreCompileInputs.cache
+D:\桌面\Zhaoxi\SmartFactoryApi\Zhaoxi.SmartFactory.Common\obj\Debug\net7.0\Zhaoxi.SmartFactory.Common.dll
+D:\桌面\Zhaoxi\SmartFactoryApi\Zhaoxi.SmartFactory.Common\obj\Debug\net7.0\refint\Zhaoxi.SmartFactory.Common.dll
+D:\桌面\Zhaoxi\SmartFactoryApi\Zhaoxi.SmartFactory.Common\obj\Debug\net7.0\Zhaoxi.SmartFactory.Common.pdb
+D:\桌面\Zhaoxi\SmartFactoryApi\Zhaoxi.SmartFactory.Common\obj\Debug\net7.0\ref\Zhaoxi.SmartFactory.Common.dll
+D:\桌面\Zhaoxi\SmartFactoryApi\Zhaoxi.SmartFactory.Common\obj\Debug\net7.0\Zhaoxi.SmartFactory.Common.csproj.AssemblyReference.cache

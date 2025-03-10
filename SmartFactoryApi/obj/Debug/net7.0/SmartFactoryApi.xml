@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SmartFactoryApi</name>
+    </assembly>
+    <members>
+        <member name="T:SmartFactoryApi.Controllers.SystemLogController">
+            <summary>
+            系统的日志管理
+            </summary>
+        </member>
+        <member name="M:SmartFactoryApi.Controllers.SystemLogController.SystemlogPage(System.Int32,System.Int32,System.Nullable{System.Double},System.Nullable{System.Double})">
+            <summary>
+            分页查询
+            </summary>
+            <param name="pageindex"></param>
+            <param name="pagesize"></param>
+            <returns></returns>
+        </member>
+        <member name="T:SmartFactoryApi.Controllers.UserLogController">
+            <summary>
+            系统的日志管理
+            </summary>
+        </member>
+        <member name="M:SmartFactoryApi.Controllers.UserLogController.UserLogPage(System.Int32,System.Int32,System.String)">
+            <summary>
+            分页查询
+            </summary>
+            <param name="pageindex"></param>
+            <param name="pagesize"></param>
+            <returns></returns>
+        </member>
+        <member name="T:SmartFactoryApi.Controllers.WeatherForecastController">
+            <summary>
+            框架默认的控制器
+            </summary>
+        </member>
+        <member name="M:SmartFactoryApi.Controllers.WeatherForecastController.Get">
+            <summary>
+            框架默认的api
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SmartFactoryApi.Utility.Filter.CustomAlwaysOnResultFilterAttribute.OnResultExecutionAsync(Microsoft.AspNetCore.Mvc.Filters.ResultExecutingContext,Microsoft.AspNetCore.Mvc.Filters.ResultExecutionDelegate)">
+            <summary>
+            解决跨域的具体方案
+            </summary>
+            <param name="context"></param>
+            <param name="next"></param>
+            <returns></returns>
+        </member>
+        <member name="T:SmartFactoryApi.Utility.SwaggerExt.CustomSwaggerExt">
+            <summary>
+            这个类扩展了swagger的相关配置
+            </summary>
+        </member>
+        <member name="M:SmartFactoryApi.Utility.SwaggerExt.CustomSwaggerExt.AddSwagger(Microsoft.AspNetCore.Builder.WebApplicationBuilder)">
+            <summary>
+            ----------------------------------------配置Swagger---------------------------------------------
+            </summary>
+            <param name="builder"></param>
+        </member>
+        <member name="M:SmartFactoryApi.Utility.SwaggerExt.CustomSwaggerExt.UseSwaggerExt(Microsoft.AspNetCore.Builder.WebApplication)">
+            <summary>
+            使用Swagger
+            </summary>
+            <param name="app"></param>
+        </member>
+    </members>
+</doc>

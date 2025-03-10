@@ -1,0 +1,74 @@
+2025-03-04 09:26:22,780 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-03-04 09:26:22,841 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-03-04 09:26:22,901 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-03-04 09:26:22,906 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-03-04 09:26:22,909 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-03-04 09:30:51,568 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-03-04 09:30:51,623 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-03-04 09:30:51,688 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-03-04 09:30:51,693 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-03-04 09:30:51,695 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-03-04 09:31:06,460 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-03-04 09:31:06,529 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-03-04 09:31:06,613 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-03-04 09:31:06,623 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-03-04 09:31:06,630 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-03-04 09:41:04,574 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-03-04 09:41:04,662 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-03-04 09:41:04,742 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-03-04 09:41:04,746 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-03-04 09:41:04,749 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-03-04 09:44:17,214 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-03-04 09:44:17,263 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-03-04 09:44:17,321 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-03-04 09:44:17,325 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-03-04 09:44:17,327 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-03-04 13:45:29,262 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-03-04 13:45:29,316 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-03-04 13:45:29,384 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-03-04 13:45:29,390 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-03-04 13:45:29,393 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-03-04 13:46:43,119 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-03-04 13:46:43,177 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-03-04 13:46:43,245 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-03-04 13:46:43,248 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-03-04 13:46:43,250 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-03-04 13:50:31,225 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-03-04 13:50:31,277 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-03-04 13:50:31,333 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-03-04 13:50:31,336 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-03-04 13:50:31,339 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-03-04 16:15:36,826 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-03-04 16:15:36,897 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-03-04 16:15:36,971 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-03-04 16:15:36,977 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-03-04 16:15:37,006 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-03-04 16:40:52,338 [1] FATAL Microsoft.AspNetCore.Hosting.Diagnostics - Application startup exception
+System.InvalidOperationException: The CORS protocol does not allow specifying a wildcard (any) origin and credentials at the same time. Configure the CORS policy by listing individual origins if credentials needs to be supported.
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsPolicyBuilder.Build()
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsOptions.AddPolicy(String name, Action`1 configurePolicy)
+   at SmartFactoryApi.Program.<>c.<Main>b__0_2(CorsOptions option) in D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi\Program.cs:line 50
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.UnnamedOptionsManager`1.get_Value()
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsService..ctor(IOptions`1 options, ILoggerFactory loggerFactory)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.ConstructorInvoker.Invoke(Object obj, IntPtr* args, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass2_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2025-03-04 16:42:29,448 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-03-04 16:42:29,505 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-03-04 16:42:29,568 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-03-04 16:42:29,571 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-03-04 16:42:29,574 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
