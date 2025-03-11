@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29E916D5-1C80-49BB-A7B1-51FCE975EC16}|SmartFactoryApi\\SmartFactoryApi.csproj|d:\\\u684C\u9762\\zhaoxi\\smartfactoryapi\\smartfactoryapi\\utility\\swaggerext\\customswaggerext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E916D5-1C80-49BB-A7B1-51FCE975EC16}|SmartFactoryApi\\SmartFactoryApi.csproj|solutionrelative:smartfactoryapi\\utility\\swaggerext\\customswaggerext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29E916D5-1C80-49BB-A7B1-51FCE975EC16}|SmartFactoryApi\\SmartFactoryApi.csproj|d:\\\u684C\u9762\\zhaoxi\\smartfactoryapi\\smartfactoryapi\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29E916D5-1C80-49BB-A7B1-51FCE975EC16}|SmartFactoryApi\\SmartFactoryApi.csproj|solutionrelative:smartfactoryapi\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CustomSwaggerExt.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\SmartFactoryApi\\Utility\\SwaggerExt\\CustomSwaggerExt.cs",
+              "RelativeDocumentMoniker": "SmartFactoryApi\\Utility\\SwaggerExt\\CustomSwaggerExt.cs",
+              "ToolTip": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\SmartFactoryApi\\Utility\\SwaggerExt\\CustomSwaggerExt.cs",
+              "RelativeToolTip": "SmartFactoryApi\\Utility\\SwaggerExt\\CustomSwaggerExt.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:38:00.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StatisticsController.cs",
               "DocumentMoniker": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\SmartFactoryApi\\Controllers\\StatisticsController.cs",
               "RelativeDocumentMoniker": "SmartFactoryApi\\Controllers\\StatisticsController.cs",
-              "ToolTip": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\SmartFactoryApi\\Controllers\\StatisticsController.cs*",
-              "RelativeToolTip": "SmartFactoryApi\\Controllers\\StatisticsController.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA9wB4AAAAfAAAAAAAAAA==",
+              "ToolTip": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\SmartFactoryApi\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "SmartFactoryApi\\Controllers\\StatisticsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T03:24:05.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ApiResult.cs",
               "DocumentMoniker": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\Zhaoxi.SmartFactory.Common\\Result\\ApiResult.cs",
               "RelativeDocumentMoniker": "Zhaoxi.SmartFactory.Common\\Result\\ApiResult.cs",
