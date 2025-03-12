@@ -25,7 +25,29 @@ namespace SmartFactory.BusinessInterface
         /// <param name="attendanceDate">考勤日期</param>
         /// <returns>考勤记录实体</returns>
        AttendanceWithUserName GetAttendanceByEmployeeIdAndDate(int employeeId, DateTime attendanceDate);
+        /// <summary>
+        /// 分页查询考勤记录（这是一个联表查询）
+        /// </summary>
+        /// <param name="funcWhere"></param>
+        /// <param name="pageSize"></param>
+        /// <param name="pageIndex"></param>
+        /// <param name="funcOrderby"></param>
+        /// <param name="isAsc"></param>
+        /// <returns></returns>
         PagingData<AttendanceWithUserName> QueryPageAttendanceWithUsername(Expression<Func<Attendance, bool>> funcWhere, int pageSize, int pageIndex, Expression<Func<AttendanceWithUserName, object>> funcOrderby, bool isAsc = true);
 
+        /// <summary>
+        /// 根据考勤记录ID删除考勤记录
+        /// </summary>
+        /// <param name = "attendanceId" > 考勤记录ID </ param >
+        /// < returns > 删除是否成功 </ returns >
+        bool DeleteAttendance(int attendanceId);
+
+        /// <summary>
+        /// 修改考勤记录
+        /// </summary>
+        /// <param name = "attendance" > 考勤记录实体 </ param >
+        /// < returns > 修改是否成功 </ returns >
+        bool UpdateAttendance(Attendance attendance);
     }
 }

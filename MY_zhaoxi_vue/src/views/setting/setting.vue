@@ -1,0 +1,3 @@
+<template>
+    setting view
+</template>

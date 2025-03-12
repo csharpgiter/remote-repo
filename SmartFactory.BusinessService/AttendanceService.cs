@@ -19,6 +19,7 @@ namespace SmartFactory.BusinessService
             _Client.Insertable(attendance).ExecuteCommand();
         }
 
+
         public AttendanceWithUserName GetAttendanceByEmployeeIdAndDate(int employeeId, DateTime attendanceDate)
         {
             return _Client.Queryable<Attendance, User>((a, u) => new object[] {
@@ -81,6 +82,33 @@ namespace SmartFactory.BusinessService
             };
 
             return result;
+        }
+
+        public bool UpdateAttendance(Attendance attendance)
+        {
+            try
+            {
+                var result = _Client.Updateable(attendance).ExecuteCommand();
+                return result > 0;
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("考勤记录更新失败");
+                return false;
+            }
+        }
+        public bool DeleteAttendance(int attendanceId)
+        {
+            try
+            {
+                var result = _Client.Deleteable<Attendance>().In(attendanceId).ExecuteCommand();
+                return result > 0;
+            }
+            catch (Exception)
+            {
+
+                return false;
+            }
         }
     }
 }

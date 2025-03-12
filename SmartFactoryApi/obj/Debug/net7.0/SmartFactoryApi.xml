@@ -24,7 +24,7 @@
             <param name="attendanceDate">考勤日期</param>
             <returns>考勤记录实体</returns>
         </member>
-        <member name="M:SmartFactoryApi.Controllers.AttendanceController.SystemlogPage(System.Int32,System.Int32,System.Nullable{System.Double},System.Nullable{System.Double})">
+        <member name="M:SmartFactoryApi.Controllers.AttendanceController.AttendancePage(System.Int32,System.Int32,System.Nullable{System.Double},System.Nullable{System.Double})">
             <returns></returns>
         </member>
         <member name="T:SmartFactoryApi.Controllers.SystemLogController">

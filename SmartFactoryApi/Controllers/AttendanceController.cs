@@ -61,7 +61,7 @@ namespace SmartFactoryApi.Controllers
         /// <returns></returns>
         [HttpGet("{pageindex:int}/{pagesize:int}/{startdate:double}/{enddate:double}")]
         [HttpGet("{pageindex:int}/{pagesize:int}")]
-        public IActionResult SystemlogPage(int pageindex, int pagesize, double? startdate, double? enddate)
+        public IActionResult AttendancePage(int pageindex, int pagesize, double? startdate, double? enddate)
         {
             Expressionable<Attendance> expressionable = new Expressionable<Attendance>();
             if (startdate != null && enddate != null)
@@ -87,6 +87,38 @@ namespace SmartFactoryApi.Controllers
             //int totalcount = 0;
             //List<SystemLog> pagelist = _sqlSugarClient.Queryable<SystemLog>().ToPageList(pageindex, pagesize,ref totalcount);
             return new JsonResult(pagelist);
+        }
+        [HttpPut]
+        public IActionResult UpdateAttendance([FromBody] Attendance attendance)
+        {
+            if (attendance == null)
+            {
+                return BadRequest("请求数据不能为空");
+            }
+
+            var result = _attendanceService.UpdateAttendance(attendance);
+            if (result)
+            {
+                return Ok("考勤记录修改成功");
+            }
+            else
+            {
+                return BadRequest("考勤记录修改失败");
+            }
+        }
+
+        [HttpDelete]
+        public IActionResult DeleteAttendance(int Attendanceid)
+        {
+            var result=_attendanceService.DeleteAttendance(Attendanceid);
+            if (result)
+            {
+                return Ok("删除成功");
+            }
+            else
+            {
+                return BadRequest("删除失败");
+            }
         }
     }
 }

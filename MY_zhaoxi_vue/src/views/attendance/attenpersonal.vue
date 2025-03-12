@@ -1,0 +1,3 @@
+<template>
+    attendance personal
+</template>

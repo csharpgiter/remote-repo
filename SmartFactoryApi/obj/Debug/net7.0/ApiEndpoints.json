@@ -22,6 +22,38 @@
   },
   {
     "ContainingType": "SmartFactoryApi.Controllers.AttendanceController",
+    "Method": "UpdateAttendance",
+    "RelativePath": "api/Attendance",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "attendance",
+        "Type": "SmartFactory.Entity.EntityMap.Attendance",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartFactoryApi.Controllers.AttendanceController",
+    "Method": "DeleteAttendance",
+    "RelativePath": "api/Attendance",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Attendanceid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartFactoryApi.Controllers.AttendanceController",
     "Method": "GetAttendanceByEmployeeIdAndDate",
     "RelativePath": "api/Attendance/{employeeId}/{attendanceDate}",
     "HttpMethod": "GET",
@@ -43,7 +75,7 @@
   },
   {
     "ContainingType": "SmartFactoryApi.Controllers.AttendanceController",
-    "Method": "SystemlogPage",
+    "Method": "AttendancePage",
     "RelativePath": "api/Attendance/{pageindex}/{pagesize}",
     "HttpMethod": "GET",
     "IsController": true,
@@ -64,7 +96,7 @@
   },
   {
     "ContainingType": "SmartFactoryApi.Controllers.AttendanceController",
-    "Method": "SystemlogPage",
+    "Method": "AttendancePage",
     "RelativePath": "api/Attendance/{pageindex}/{pagesize}/{startdate}/{enddate}",
     "HttpMethod": "GET",
     "IsController": true,

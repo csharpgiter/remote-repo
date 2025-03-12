@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{29E916D5-1C80-49BB-A7B1-51FCE975EC16}|SmartFactoryApi\\SmartFactoryApi.csproj|solutionrelative:smartfactoryapi\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29E916D5-1C80-49BB-A7B1-51FCE975EC16}|SmartFactoryApi\\SmartFactoryApi.csproj|d:\\\u684C\u9762\\zhaoxi\\smartfactoryapi\\smartfactoryapi\\controllers\\systemlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29E916D5-1C80-49BB-A7B1-51FCE975EC16}|SmartFactoryApi\\SmartFactoryApi.csproj|solutionrelative:smartfactoryapi\\controllers\\systemlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{649B90AD-CE4F-4689-87F0-D3B9BA6C3B31}|SmartFactory.BusinessService\\SmartFactory.BusinessService.csproj|d:\\\u684C\u9762\\zhaoxi\\smartfactoryapi\\smartfactory.businessservice\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{649B90AD-CE4F-4689-87F0-D3B9BA6C3B31}|SmartFactory.BusinessService\\SmartFactory.BusinessService.csproj|solutionrelative:smartfactory.businessservice\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{FCBB8337-325A-44C8-BCD4-1C82BF82E79B}|SmartFactory.BusinessInterface\\SmartFactory.BusinessInterface.csproj|solutionrelative:smartfactory.businessinterface\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E313BA1E-1AE8-435D-AAF8-9406DA294722}|SmartFactory.Entity\\SmartFactory.Entity.csproj|d:\\\u684C\u9762\\zhaoxi\\smartfactoryapi\\smartfactory.entity\\entitydto\\attendancewithusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E313BA1E-1AE8-435D-AAF8-9406DA294722}|SmartFactory.Entity\\SmartFactory.Entity.csproj|solutionrelative:smartfactory.entity\\entitydto\\attendancewithusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E313BA1E-1AE8-435D-AAF8-9406DA294722}|SmartFactory.Entity\\SmartFactory.Entity.csproj|d:\\\u684C\u9762\\zhaoxi\\smartfactoryapi\\smartfactory.entity\\entitymap\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E313BA1E-1AE8-435D-AAF8-9406DA294722}|SmartFactory.Entity\\SmartFactory.Entity.csproj|solutionrelative:smartfactory.entity\\entitymap\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E313BA1E-1AE8-435D-AAF8-9406DA294722}|SmartFactory.Entity\\SmartFactory.Entity.csproj|d:\\\u684C\u9762\\zhaoxi\\smartfactoryapi\\smartfactory.entity\\entitydto\\attendancewithusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E313BA1E-1AE8-435D-AAF8-9406DA294722}|SmartFactory.Entity\\SmartFactory.Entity.csproj|solutionrelative:smartfactory.entity\\entitydto\\attendancewithusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -51,41 +47,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IAttendanceService.cs",
               "DocumentMoniker": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\SmartFactory.BusinessInterface\\IAttendanceService.cs",
               "RelativeDocumentMoniker": "SmartFactory.BusinessInterface\\IAttendanceService.cs",
               "ToolTip": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\SmartFactory.BusinessInterface\\IAttendanceService.cs",
               "RelativeToolTip": "SmartFactory.BusinessInterface\\IAttendanceService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA3wBsAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T08:48:50.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AttendanceService.cs",
               "DocumentMoniker": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\SmartFactory.BusinessService\\AttendanceService.cs",
               "RelativeDocumentMoniker": "SmartFactory.BusinessService\\AttendanceService.cs",
               "ToolTip": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\SmartFactory.BusinessService\\AttendanceService.cs",
               "RelativeToolTip": "SmartFactory.BusinessService\\AttendanceService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAD4vycAAAB1AAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAcwGgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T08:21:58.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SystemLogController.cs",
-              "DocumentMoniker": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\SmartFactoryApi\\Controllers\\SystemLogController.cs",
-              "RelativeDocumentMoniker": "SmartFactoryApi\\Controllers\\SystemLogController.cs",
-              "ToolTip": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\SmartFactoryApi\\Controllers\\SystemLogController.cs",
-              "RelativeToolTip": "SmartFactoryApi\\Controllers\\SystemLogController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwDMAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T08:06:36.667Z",
               "EditorCaption": ""
             },
             {
@@ -96,22 +79,23 @@
               "RelativeDocumentMoniker": "SmartFactoryApi\\Controllers\\AttendanceController.cs",
               "ToolTip": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\SmartFactoryApi\\Controllers\\AttendanceController.cs",
               "RelativeToolTip": "SmartFactoryApi\\Controllers\\AttendanceController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAgwEcAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwHQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T07:47:34.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Attendence.cs",
               "DocumentMoniker": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\SmartFactory.Entity\\EntityMap\\Attendence.cs",
               "RelativeDocumentMoniker": "SmartFactory.Entity\\EntityMap\\Attendence.cs",
               "ToolTip": "D:\\\u684C\u9762\\Zhaoxi\\SmartFactoryApi\\SmartFactory.Entity\\EntityMap\\Attendence.cs",
               "RelativeToolTip": "SmartFactory.Entity\\EntityMap\\Attendence.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T08:10:06.09Z"
+              "WhenOpened": "2025-03-11T08:10:06.09Z",
+              "EditorCaption": ""
             }
           ]
         }
