@@ -1,9 +1,12 @@
 ﻿using SmartFactory.Entity.EntityMap;
+using SmartFactory.Entity.EntityDto;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Linq.Expressions;
+using Zhaoxi.SmartFactory.Common.Result;
 
 namespace SmartFactory.BusinessInterface
 {
@@ -21,6 +24,8 @@ namespace SmartFactory.BusinessInterface
         /// <param name="employeeId">员工ID</param>
         /// <param name="attendanceDate">考勤日期</param>
         /// <returns>考勤记录实体</returns>
-       Attendance GetAttendanceByEmployeeIdAndDate(int employeeId, DateTime attendanceDate);
+       AttendanceWithUserName GetAttendanceByEmployeeIdAndDate(int employeeId, DateTime attendanceDate);
+        PagingData<AttendanceWithUserName> QueryPageAttendanceWithUsername(Expression<Func<Attendance, bool>> funcWhere, int pageSize, int pageIndex, Expression<Func<AttendanceWithUserName, object>> funcOrderby, bool isAsc = true);
+
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Smart.SqlsugarTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9102db9fe087a1244725ceddf50c370979e7728b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+928e8eae54800c98b238ebea16b76a632a53c9be")]
 [assembly: System.Reflection.AssemblyProductAttribute("Smart.SqlsugarTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Smart.SqlsugarTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

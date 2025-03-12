@@ -1,5 +1,99 @@
 [
   {
+    "ContainingType": "SmartFactoryApi.Controllers.AttendanceController",
+    "Method": "AddAttendance",
+    "RelativePath": "api/Attendance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartFactoryApi.Controllers.AttendanceController",
+    "Method": "GetAttendanceByEmployeeIdAndDate",
+    "RelativePath": "api/Attendance/{employeeId}/{attendanceDate}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "attendanceDate",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartFactoryApi.Controllers.AttendanceController",
+    "Method": "SystemlogPage",
+    "RelativePath": "api/Attendance/{pageindex}/{pagesize}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageindex",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pagesize",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartFactoryApi.Controllers.AttendanceController",
+    "Method": "SystemlogPage",
+    "RelativePath": "api/Attendance/{pageindex}/{pagesize}/{startdate}/{enddate}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageindex",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pagesize",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "startdate",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      },
+      {
+        "Name": "enddate",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SmartFactoryApi.Controllers.StatisticsController",
     "Method": "GetOutgood",
     "RelativePath": "api/Statistics/GoodStatistic",

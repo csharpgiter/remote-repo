@@ -53,7 +53,7 @@ namespace SmartFactoryApi.Controllers
                 expressionable.And(x => x.Date <= enddateTime);
             }
 
-            HttpContext.Response.Headers.Add("Access-Control-Allow-Origin", "*");
+            //HttpContext.Response.Headers.Add("Access-Control-Allow-Origin", "*");
             //转换：automapper
             //1.安装程序集
             //2.配置映射关系

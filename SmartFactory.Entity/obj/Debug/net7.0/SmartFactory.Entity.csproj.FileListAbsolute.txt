@@ -13,3 +13,4 @@ D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.Entity\obj\Debug\net7.0\SmartFacto
 D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.Entity\bin\Debug\net7.0\Zhaoxi.SmartFactory.Common.dll
 D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.Entity\bin\Debug\net7.0\Zhaoxi.SmartFactory.Common.pdb
 D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.Entity\obj\Debug\net7.0\SmartFac.712A56AA.Up2Date
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.Entity\obj\Debug\net7.0\SmartFactory.Entity.sourcelink.json

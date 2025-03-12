@@ -18,6 +18,7 @@ namespace Smart.SqlsugarTest
                 };
                 SqlSugarClient sqlSugarClient = new SqlSugarClient(connection);
                 //sqlSugarClient.DbFirst.CreateClassFile("D:\\桌面\\Zhaoxi\\SmartFactoryApi\\SmartFactory.Entity\\EntityMap");
+                sqlSugarClient.CodeFirst.InitTables(typeof(Attendance));
                 SystemLog systemLog = sqlSugarClient.Queryable<SystemLog>().First();
                 systemLog.Id = 0;
                 systemLog.Message = "测试";
@@ -73,7 +74,7 @@ namespace Smart.SqlsugarTest
                         JobStatus = 3,
                     }
                 }).ExecuteCommand();
-                Console.WriteLine(rows);
+                //Console.WriteLine(rows);
             }
             catch (Exception)
             {

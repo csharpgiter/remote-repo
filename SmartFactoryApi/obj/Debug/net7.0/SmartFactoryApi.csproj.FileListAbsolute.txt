@@ -139,3 +139,4 @@ D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi\bin\Debug\net7.0\SmartFactory.B
 D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi\bin\Debug\net7.0\Zhaoxi.SmartFactory.Common.pdb
 D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi\bin\Debug\net7.0\AutoMapper.dll
 D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi\obj\Debug\net7.0\SmartFactoryApi.sourcelink.json

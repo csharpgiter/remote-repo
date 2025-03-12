@@ -21,6 +21,8 @@ namespace SmartFactoryApi
             //nuget“˝»Î:log4net
             //          Microsoft.Extensions.Logging.Log4Net.AspNetCore 
             builder.Logging.AddLog4Net("CfgFile/log4net.config");
+           
+            builder.Services.AddScoped<IAttendanceService, AttendanceService>();
             builder.Services.AddTransient<ISystemlogService,SystemlogService>();
             builder.Services.AddTransient<IUserService, UserService>();
             builder.Services.AddTransient<ISqlSugarClient>(

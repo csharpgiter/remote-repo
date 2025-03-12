@@ -107,3 +107,6 @@ D:\桌面\Zhaoxi\SmartFactoryApi\Smart.SqlsugarTest\bin\Debug\net7.0\AutoMapper.
 D:\桌面\Zhaoxi\SmartFactoryApi\Smart.SqlsugarTest\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\桌面\Zhaoxi\SmartFactoryApi\Smart.SqlsugarTest\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
 D:\桌面\Zhaoxi\SmartFactoryApi\Smart.SqlsugarTest\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\桌面\Zhaoxi\SmartFactoryApi\Smart.SqlsugarTest\bin\Debug\net7.0\Zhaoxi.SmartFactory.Common.dll
+D:\桌面\Zhaoxi\SmartFactoryApi\Smart.SqlsugarTest\bin\Debug\net7.0\Zhaoxi.SmartFactory.Common.pdb
+D:\桌面\Zhaoxi\SmartFactoryApi\Smart.SqlsugarTest\obj\Debug\net7.0\Smart.SqlsugarTest.sourcelink.json

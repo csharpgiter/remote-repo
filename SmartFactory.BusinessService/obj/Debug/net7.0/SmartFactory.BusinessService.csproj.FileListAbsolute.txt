@@ -17,3 +17,4 @@ D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessService\obj\Debug\net7.0\S
 D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessService\obj\Debug\net7.0\ref\SmartFactory.BusinessService.dll
 D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessService\bin\Debug\net7.0\SmartFactory.Entity.dll
 D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessService\bin\Debug\net7.0\SmartFactory.Entity.pdb
+D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactory.BusinessService\obj\Debug\net7.0\SmartFactory.BusinessService.sourcelink.json

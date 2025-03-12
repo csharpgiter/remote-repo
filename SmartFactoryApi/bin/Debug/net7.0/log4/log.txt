@@ -1,5 +1,20 @@
-2025-03-11 14:44:42,803 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
-2025-03-11 14:44:42,874 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
-2025-03-11 14:44:42,953 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
-2025-03-11 14:44:42,957 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
-2025-03-11 14:44:42,961 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-03-12 11:00:12,696 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-03-12 11:00:12,796 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-03-12 11:00:12,869 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-03-12 11:00:12,874 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-03-12 11:00:12,876 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-03-12 11:32:38,983 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-03-12 11:32:39,033 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-03-12 11:32:39,091 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-03-12 11:32:39,096 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-03-12 11:32:39,098 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-03-12 11:33:48,869 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-03-12 11:33:48,939 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-03-12 11:33:48,999 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-03-12 11:33:49,004 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-03-12 11:33:49,007 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi
+2025-03-12 11:35:32,014 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7200
+2025-03-12 11:35:32,080 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5202
+2025-03-12 11:35:32,153 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-03-12 11:35:32,157 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-03-12 11:35:32,160 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\桌面\Zhaoxi\SmartFactoryApi\SmartFactoryApi

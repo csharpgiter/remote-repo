@@ -4,6 +4,29 @@
         <name>SmartFactoryApi</name>
     </assembly>
     <members>
+        <member name="T:SmartFactoryApi.Controllers.AttendanceController">
+            <summary>
+            考勤管理控制器
+            </summary>
+        </member>
+        <member name="M:SmartFactoryApi.Controllers.AttendanceController.AddAttendance(System.Int32,System.String)">
+            <summary>
+            添加考勤记录
+            </summary>
+            <param name="attendance">考勤记录实体</param>
+            <returns></returns>
+        </member>
+        <member name="M:SmartFactoryApi.Controllers.AttendanceController.GetAttendanceByEmployeeIdAndDate(System.Int32,System.DateTime)">
+            <summary>
+            根据员工ID和日期查询考勤记录
+            </summary>
+            <param name="employeeId">员工ID</param>
+            <param name="attendanceDate">考勤日期</param>
+            <returns>考勤记录实体</returns>
+        </member>
+        <member name="M:SmartFactoryApi.Controllers.AttendanceController.SystemlogPage(System.Int32,System.Int32,System.Nullable{System.Double},System.Nullable{System.Double})">
+            <returns></returns>
+        </member>
         <member name="T:SmartFactoryApi.Controllers.SystemLogController">
             <summary>
             系统的日志管理

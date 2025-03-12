@@ -911,10 +911,23 @@
         "dependencies": {
           "AutoMapper": "12.0.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
-          "SqlSugarCore": "5.1.4.178"
+          "SqlSugarCore": "5.1.4.178",
+          "Zhaoxi.SmartFactory.Common": "1.0.0"
         },
         "runtime": {
           "SmartFactory.Entity.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Zhaoxi.SmartFactory.Common/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "12.0.1",
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1"
+        },
+        "runtime": {
+          "Zhaoxi.SmartFactory.Common.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1440,6 +1453,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "SmartFactory.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zhaoxi.SmartFactory.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
